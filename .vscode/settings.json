@@ -4,5 +4,12 @@
     },
     "files.associations": {
         "lexer.h": "c"
-    }
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/nilesh/ANI-C",
+            "binaryPath": "/home/nilesh/ANI-C/anic",
+            "binaryArgs": []
+        }
+    ]
 }
