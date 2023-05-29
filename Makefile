@@ -10,7 +10,7 @@ $(EXEC): $(OBJ)
 	gcc -c $(FLAGS) $< -o $@
 
 clean:
-	-rm anic
+	-rm ani
 	-rm src/*.o
 
 lint:
