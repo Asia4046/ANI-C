@@ -1,0 +1,8 @@
+{
+    "material-icon-theme.files.associations": {
+        "*.anic": "typesc../../icons/anic.svg",
+    },
+    "files.associations": {
+        "lexer.h": "c"
+    }
+}
