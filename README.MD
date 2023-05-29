@@ -50,7 +50,7 @@ get it via wget
 * wget
 
 ```sh
-wget https://github.com/Asia4046/anic
+wget https://github.com/Asia4046/ANI-C/blob/main/anic
 ```
 
 ## Usage
