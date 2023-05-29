@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Asia4046/ANI-C">
-    <img src="images/anic.png" alt="Logo" width="80" height="80">
+    <img src="https://media.discordapp.net/attachments/1112004270150131762/1112575050479046736/ISO_C_Logo.png?width=551&height=619" alt="Logo" width="80" height="90">
   </a>
 
   <h3 align="center">ANI-C</h3>
