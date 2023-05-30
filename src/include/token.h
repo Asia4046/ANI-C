@@ -17,8 +17,9 @@ typedef struct TOKEN_STRUCT
         TOKEN_LT,
         TOKEN_GT,
         TOKEN_RIGHT_ARROW,
+        TOKEN_INT,
         TOKEN_SEMI,
-        TOKEN_INT
+        TOKEN_EOF
 
     }type;
 }token_T;

@@ -11,5 +11,6 @@
             "binaryPath": "/home/nilesh/ANI-C/anic",
             "binaryArgs": []
         }
-    ]
+    ],
+    "C_Cpp.errorSquiggles": "enabled"
 }

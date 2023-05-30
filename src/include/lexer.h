@@ -16,7 +16,11 @@ lexer_T* init_lexer(char* src);
 
 void lexer_advance(lexer_T* lexer);
 
+token_T* lexer_advance_with(lexer_T* lexer, token_T* token);
+
 void lexer_skip_whitespace(lexer_T* lexer);
+
+token_T* lexer_parse_id(lexer_T* lexer);
 
 token_T* lexer_next_token(lexer_T* lexer);
 
