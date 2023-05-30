@@ -13,7 +13,14 @@ lexer_T* init_lexer(char* src){
 
 void lexer_advance(lexer_T* lexer){
     if(lexer->i < lexer->src_size && lexer->c != '\0'){
-        
+        lexer->i += 1;
+        lexer->c = lexer->src[lexer->i];
+    }
+}
+
+void lexer_skip_whitespace(lexer_T* lexer){
+    while(lexer->c == 13 || lexer->c == 10 || lexer->c == ' ' || lexer->c == '\t'){
+        lexer_advance(lexer);
     }
 }
 
