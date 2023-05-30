@@ -8,7 +8,7 @@ void anic_compile(char* src){
     token_T* tok = 0;
 
     while((tok = lexer_next_token(lexer))->type != TOKEN_EOF){
-        printf("TOK(%s) (%d)\n", tok->value, tok->type);
+        printf("%s\n", token_to_str(tok));
     }
 }
 

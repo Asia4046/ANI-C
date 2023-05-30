@@ -3,7 +3,8 @@
         "*.anic": "typesc../../icons/anic.svg",
     },
     "files.associations": {
-        "lexer.h": "c"
+        "lexer.h": "c",
+        "token.h": "c"
     },
     "makefile.launchConfigurations": [
         {
