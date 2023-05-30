@@ -47,10 +47,12 @@ You need the compiler and tools for C in order to compile this project yourself
 This project is still in dev. You can download it via the release page or
 get it via wget
 
-* wget
+* compile it on ur own(works only for linux, windows version comming soon)
 
 ```sh
-wget https://github.com/Asia4046/ANI-C/blob/main/anic
+git clone https://github.com/Asia4046/ANI-C.git
+cd ANI-C
+make
 ```
 
 ## Usage
