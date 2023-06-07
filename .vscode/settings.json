@@ -1,6 +1,5 @@
 {
     "material-icon-theme.files.associations": {
-        "*.anic": "typesc../../icons/anic.svg",
     },
     "files.associations": {
         "lexer.h": "c",
@@ -13,5 +12,5 @@
             "binaryArgs": []
         }
     ],
-    "C_Cpp.errorSquiggles": "enabled"
+    "C_Cpp.errorSquiggles": "disabled"
 }
