@@ -1,6 +1,7 @@
 #ifndef ANI_C_TOKEN_H
 #define ANI_C_TOKEN_H
 
+#include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
 
